@@ -12,7 +12,7 @@ from googleapiclient.errors import HttpError
 
 # If modifying these scopes, delete the file token.json.
 SCOPES = ['https://www.googleapis.com/auth/calendar']
-GAME_CAL_ID = "f695c5387ed227951b573cf06dd9720cbf9f85ffca0baab36827ed1897a0b2a8@group.calendar.google.com"
+GAME_CAL_ID = "ADD CALENDAR ID HERE"
 GET_GAMES = "https://api.rawg.io/api/games?key=d430c2ba8e9146d7af53c78d27ba9a57&dates=2023-12-01,2024-12-30"
 
 def main():

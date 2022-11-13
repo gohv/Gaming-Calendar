@@ -11,3 +11,7 @@ Thats it!
 The script will add all future game releases to the Calendar of your choice
 It will look like that:
 ![image](https://user-images.githubusercontent.com/16693399/201535865-296e3014-ea05-4bc3-b517-e866de797c7f.png)
+
+#TODO: 
+- Create OOP for a single Game
+- Encapsulate keys and tokens

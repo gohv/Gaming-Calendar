@@ -2,6 +2,8 @@ import requests
 import json
 import Game
 
+#THIS FILE IS USED ONLY FOR TESTING THE API CALLS
+
 game_request = requests.get(
     "https://api.rawg.io/api/games?key=d430c2ba8e9146d7af53c78d27ba9a57&dates=2022-01-01,2022-11-01&platforms=18,1,7")
 
